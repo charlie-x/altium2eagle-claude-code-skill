@@ -8,3 +8,8 @@ i'm sure claude can figure out non ole versions, but this is for them
 https://i.imgur.com/ViWxQA4.png
 
 https://i.imgur.com/pxapS9B.png
+
+
+
+
+config.py has some harded coded paths to the files i converted, but claude will figure it out
